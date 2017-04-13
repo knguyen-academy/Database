@@ -150,3 +150,6 @@ C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\Loc
 C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
 C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
 C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Accel_Form.resources
+C:\Users\knguyen\Desktop\CPE190\Database\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\knguyen\Desktop\CPE190\Database\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\knguyen\Desktop\CPE190\Database\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
