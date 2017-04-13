@@ -1,0 +1,152 @@
+c:\users\khoi\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\documents\visual studio 2015\Projects\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\LocalDatabaseApp-20161015T230417Z\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\Desktop\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\Desktop\Work with no ID\10-22-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\10-23-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\10-31-16 Backup DB app\10-23-16 Backup DB app\LocalDatabaseApp\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Pressure_Form.resources
+C:\Users\Khoi Nguyen\Desktop\11-19-DB app\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Pressure_Form.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Pressure_Form.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\knguyen\Desktop\DB App with Graph 11-19-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Pressure_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-13-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\DB Apsp with Graph 02-17-16\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Accel_Form.resources
