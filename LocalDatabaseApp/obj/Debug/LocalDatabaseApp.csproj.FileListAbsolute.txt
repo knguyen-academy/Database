@@ -181,3 +181,14 @@ C:\Users\Khoi Nguyen\Desktop\DB Apsp with Graph 4-9-17\LocalDatabaseApp\obj\Debu
 C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe.config
 C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.exe
 C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.exe
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\bin\Debug\LocalDatabaseApp.pdb
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Graph_Form.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Insert_Form.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Login_Form.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Medical_Record.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.PatientInfo_Form.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Accel_Form.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Properties.Resources.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.csproj.GenerateResource.Cache

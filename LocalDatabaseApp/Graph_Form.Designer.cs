@@ -62,10 +62,6 @@
             System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series13 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.Title title7 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series14 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title8 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this.ForeFootLChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.MidFootLChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.ForeFootRChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
@@ -74,7 +70,6 @@
             this.AllGraphChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.RearFootLChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.ThumbChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            this.RearFootRChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.Acceleration_button = new System.Windows.Forms.Button();
             this.back_button = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ForeFootLChart)).BeginInit();
@@ -84,7 +79,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.AllGraphChart)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.RearFootLChart)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ThumbChart)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.RearFootRChart)).BeginInit();
             this.SuspendLayout();
             // 
             // ForeFootLChart
@@ -96,7 +90,7 @@
             this.ForeFootLChart.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.ForeFootLChart.Legends.Add(legend1);
-            this.ForeFootLChart.Location = new System.Drawing.Point(12, 12);
+            this.ForeFootLChart.Location = new System.Drawing.Point(12, 14);
             this.ForeFootLChart.Name = "ForeFootLChart";
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -120,7 +114,7 @@
             this.MidFootLChart.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
             this.MidFootLChart.Legends.Add(legend2);
-            this.MidFootLChart.Location = new System.Drawing.Point(12, 188);
+            this.MidFootLChart.Location = new System.Drawing.Point(12, 190);
             this.MidFootLChart.Name = "MidFootLChart";
             series2.ChartArea = "ChartArea1";
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -143,7 +137,7 @@
             this.ForeFootRChart.ChartAreas.Add(chartArea3);
             legend3.Name = "Legend1";
             this.ForeFootRChart.Legends.Add(legend3);
-            this.ForeFootRChart.Location = new System.Drawing.Point(666, 12);
+            this.ForeFootRChart.Location = new System.Drawing.Point(666, 14);
             this.ForeFootRChart.Name = "ForeFootRChart";
             series3.ChartArea = "ChartArea1";
             series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -166,7 +160,7 @@
             this.MidFootRChart.ChartAreas.Add(chartArea4);
             legend4.Name = "Legend1";
             this.MidFootRChart.Legends.Add(legend4);
-            this.MidFootRChart.Location = new System.Drawing.Point(666, 188);
+            this.MidFootRChart.Location = new System.Drawing.Point(666, 190);
             this.MidFootRChart.Name = "MidFootRChart";
             series4.ChartArea = "ChartArea1";
             series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -184,7 +178,7 @@
             // Exit_button
             // 
             this.Exit_button.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.Exit_button.Location = new System.Drawing.Point(424, 771);
+            this.Exit_button.Location = new System.Drawing.Point(24, 638);
             this.Exit_button.Name = "Exit_button";
             this.Exit_button.Size = new System.Drawing.Size(75, 23);
             this.Exit_button.TabIndex = 5;
@@ -201,7 +195,7 @@
             this.AllGraphChart.ChartAreas.Add(chartArea5);
             legend5.Name = "Legend1";
             this.AllGraphChart.Legends.Add(legend5);
-            this.AllGraphChart.Location = new System.Drawing.Point(666, 549);
+            this.AllGraphChart.Location = new System.Drawing.Point(119, 551);
             this.AllGraphChart.Name = "AllGraphChart";
             series5.ChartArea = "ChartArea1";
             series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -238,7 +232,7 @@
             this.AllGraphChart.Series.Add(series9);
             this.AllGraphChart.Series.Add(series10);
             this.AllGraphChart.Series.Add(series11);
-            this.AllGraphChart.Size = new System.Drawing.Size(619, 255);
+            this.AllGraphChart.Size = new System.Drawing.Size(1166, 255);
             this.AllGraphChart.TabIndex = 2;
             this.AllGraphChart.Text = "chart3";
             title5.Name = "Title1";
@@ -252,7 +246,7 @@
             this.RearFootLChart.ChartAreas.Add(chartArea6);
             legend6.Name = "Legend1";
             this.RearFootLChart.Legends.Add(legend6);
-            this.RearFootLChart.Location = new System.Drawing.Point(12, 366);
+            this.RearFootLChart.Location = new System.Drawing.Point(12, 368);
             this.RearFootLChart.Name = "RearFootLChart";
             series12.ChartArea = "ChartArea1";
             series12.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -273,7 +267,7 @@
             this.ThumbChart.ChartAreas.Add(chartArea7);
             legend7.Name = "Legend1";
             this.ThumbChart.Legends.Add(legend7);
-            this.ThumbChart.Location = new System.Drawing.Point(12, 549);
+            this.ThumbChart.Location = new System.Drawing.Point(666, 368);
             this.ThumbChart.Name = "ThumbChart";
             series13.ChartArea = "ChartArea1";
             series13.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
@@ -287,31 +281,10 @@
             title7.Text = "Thumb ";
             this.ThumbChart.Titles.Add(title7);
             // 
-            // RearFootRChart
-            // 
-            this.RearFootRChart.Anchor = System.Windows.Forms.AnchorStyles.None;
-            chartArea8.Name = "ChartArea1";
-            this.RearFootRChart.ChartAreas.Add(chartArea8);
-            legend8.Name = "Legend1";
-            this.RearFootRChart.Legends.Add(legend8);
-            this.RearFootRChart.Location = new System.Drawing.Point(666, 366);
-            this.RearFootRChart.Name = "RearFootRChart";
-            series14.ChartArea = "ChartArea1";
-            series14.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series14.Legend = "Legend1";
-            series14.Name = "RearFootR";
-            this.RearFootRChart.Series.Add(series14);
-            this.RearFootRChart.Size = new System.Drawing.Size(619, 153);
-            this.RearFootRChart.TabIndex = 9;
-            this.RearFootRChart.Text = "chart3";
-            title8.Name = "Title1";
-            title8.Text = "Rear Foot - Right";
-            this.RearFootRChart.Titles.Add(title8);
-            // 
             // Acceleration_button
             // 
             this.Acceleration_button.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.Acceleration_button.Location = new System.Drawing.Point(424, 739);
+            this.Acceleration_button.Location = new System.Drawing.Point(24, 551);
             this.Acceleration_button.Name = "Acceleration_button";
             this.Acceleration_button.Size = new System.Drawing.Size(75, 23);
             this.Acceleration_button.TabIndex = 10;
@@ -322,7 +295,7 @@
             // back_button
             // 
             this.back_button.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.back_button.Location = new System.Drawing.Point(530, 739);
+            this.back_button.Location = new System.Drawing.Point(24, 591);
             this.back_button.Name = "back_button";
             this.back_button.Size = new System.Drawing.Size(75, 23);
             this.back_button.TabIndex = 11;
@@ -334,10 +307,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1415, 826);
+            this.ClientSize = new System.Drawing.Size(1415, 830);
             this.Controls.Add(this.back_button);
             this.Controls.Add(this.Acceleration_button);
-            this.Controls.Add(this.RearFootRChart);
             this.Controls.Add(this.ThumbChart);
             this.Controls.Add(this.RearFootLChart);
             this.Controls.Add(this.Exit_button);
@@ -356,7 +328,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.AllGraphChart)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.RearFootLChart)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ThumbChart)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.RearFootRChart)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -371,7 +342,6 @@
         private System.Windows.Forms.DataVisualization.Charting.Chart AllGraphChart;
         private System.Windows.Forms.DataVisualization.Charting.Chart RearFootLChart;
         private System.Windows.Forms.DataVisualization.Charting.Chart ThumbChart;
-        private System.Windows.Forms.DataVisualization.Charting.Chart RearFootRChart;
         private System.Windows.Forms.Button Acceleration_button;
         private System.Windows.Forms.Button back_button;
     }

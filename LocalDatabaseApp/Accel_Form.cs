@@ -21,7 +21,7 @@ namespace LocalDatabaseApp
         public void InitializePressureGrid()
         {
             //System.IO.StreamReader file = new System.IO.StreamReader("C:\\test2.txt");
-            System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\knguyen\\Desktop\\out8.txt");
+            System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\knguyen\\Desktop\\out6.txt");
 
 
             DataTable dt = new DataTable();
