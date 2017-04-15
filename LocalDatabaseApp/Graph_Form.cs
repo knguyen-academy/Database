@@ -1,7 +1,4 @@
-﻿//Create by : Khoi Nguyen
-//Diabetic Database App
-//Reivised 04-13-2017
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,13 +14,13 @@ namespace LocalDatabaseApp
     public partial class Graph_Form : Form
     {
         //StreamReader file = new StreamReader("C:\\Users\\knguyen\\Desktop\\test0.txt");
-        StreamReader ForeFootLeft_file = new StreamReader("D:\\test0.txt");
-        StreamReader ForeFootRight_file = new StreamReader("D:\\test1.txt");
-        StreamReader RearFootLeft_file = new StreamReader("D:\\test2.txt");
-        StreamReader RearFootRight_file = new StreamReader("D:\\test3.txt");
-        StreamReader MidFootLeft_file = new StreamReader("D:\\test4.txt");
-        StreamReader MidFootRight_file = new StreamReader("D:\\test5.txt");
-        StreamReader Thumb_file = new StreamReader("D:\\test6.txt");
+        StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out1.txt");
+        StreamReader ForeFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
+        StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
+        StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+        StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out5.txt");
+        StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out6.txt");
+        StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out7.txt");
         public Graph_Form()
         {
             InitializeComponent();
@@ -56,13 +53,13 @@ namespace LocalDatabaseApp
         private void AllGraphLoad()
         {
             //Reopen Files 
-            StreamReader ForeFootLeft_file = new StreamReader("D:\\test0.txt");
-            StreamReader ForeFootRight_file = new StreamReader("D:\\test1.txt");
-            StreamReader RearFootLeft_file = new StreamReader("D:\\test2.txt");
-            StreamReader RearFootRight_file = new StreamReader("D:\\test3.txt");
-            StreamReader MidFootLeft_file = new StreamReader("D:\\test4.txt");
-            StreamReader MidFootRight_file = new StreamReader("D:\\test5.txt");
-            StreamReader Thumb_file = new StreamReader("D:\\test6.txt");
+            StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out1.txt");
+            StreamReader ForeFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
+            StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
+            StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+            StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out5.txt");
+            StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out6.txt");
+            StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out7.txt");
 
             GenerateGraph(ForeFootLeft_file, AllGraphChart, "ForeFootL");
             GenerateGraph(ForeFootRight_file, AllGraphChart, "ForeFootR");

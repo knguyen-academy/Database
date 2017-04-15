@@ -1,7 +1,4 @@
-﻿//Create by : Khoi Nguyen
-//Diabetic Database App
-//Reivised 04-13-2017
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

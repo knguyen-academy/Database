@@ -1,8 +1,4 @@
-﻿//Create by : Khoi Nguyen
-//Diabetic Database App
-//Reivised 04-13-2017
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,7 +21,8 @@ namespace LocalDatabaseApp
         public void InitializePressureGrid()
         {
             //System.IO.StreamReader file = new System.IO.StreamReader("C:\\test2.txt");
-            System.IO.StreamReader file = new System.IO.StreamReader("D:\\test7.txt");
+            System.IO.StreamReader file = new System.IO.StreamReader("C:\\Users\\knguyen\\Desktop\\out8.txt");
+
 
             DataTable dt = new DataTable();
 

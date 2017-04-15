@@ -44,6 +44,7 @@
             // 
             // Exit_button
             // 
+            this.Exit_button.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.Exit_button.Location = new System.Drawing.Point(728, 29);
             this.Exit_button.Name = "Exit_button";
             this.Exit_button.Size = new System.Drawing.Size(75, 23);
