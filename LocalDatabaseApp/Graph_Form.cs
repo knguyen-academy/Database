@@ -19,8 +19,8 @@ namespace LocalDatabaseApp
         StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
         //StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
         StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
-        StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
-        StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out5.txt");
+        //StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+        StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
         public Graph_Form()
         {
             InitializeComponent();
@@ -34,7 +34,7 @@ namespace LocalDatabaseApp
             GenerateGraph(ForeFootLeft_file, ForeFootLChart, "ForeFootL");
             GenerateGraph(ForeFootRight_file, ForeFootRChart, "ForeFootR");
             GenerateGraph(MidFootLeft_file, MidFootLChart, "MidFootL");
-            GenerateGraph(MidFootRight_file, MidFootRChart, "MidFootR");
+            //GenerateGraph(MidFootRight_file, MidFootRChart, "MidFootR");
             GenerateGraph(RearFootLeft_file, RearFootLChart, "RearFootL");
             //GenerateGraph(RearFootRight_file, RearFootRChart, "RearFootR");
             GenerateGraph(Thumb_file, ThumbChart, "Thumb");
@@ -43,7 +43,7 @@ namespace LocalDatabaseApp
             ForeFootLChart.Series["ForeFootL"].Color = Color.Red;
             ForeFootRChart.Series["ForeFootR"].Color = Color.Red;
             MidFootLChart.Series["MidFootL"].Color = Color.Blue;
-            MidFootRChart.Series["MidFootR"].Color = Color.Blue;
+            //MidFootRChart.Series["MidFootR"].Color = Color.Blue;
             RearFootLChart.Series["RearFootL"].Color = Color.GreenYellow;
             //RearFootRChart.Series["RearFootR"].Color = Color.GreenYellow;
             ThumbChart.Series["Thumb"].Color = Color.Teal;
@@ -58,13 +58,13 @@ namespace LocalDatabaseApp
             StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
            // StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
             StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
-            StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
-            StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out5.txt");
+            //StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+            StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
 
             GenerateGraph(ForeFootLeft_file, AllGraphChart, "ForeFootL");
             GenerateGraph(ForeFootRight_file, AllGraphChart, "ForeFootR");
             GenerateGraph(MidFootLeft_file, AllGraphChart, "MidFootL");
-            GenerateGraph(MidFootRight_file, AllGraphChart, "MidFootR");
+            //GenerateGraph(MidFootRight_file, AllGraphChart, "MidFootR");
             GenerateGraph(RearFootLeft_file, AllGraphChart, "RearFootL");
             //GenerateGraph(RearFootRight_file, AllGraphChart, "RearFootR");
             GenerateGraph(Thumb_file, AllGraphChart, "Thumb");
@@ -73,7 +73,7 @@ namespace LocalDatabaseApp
             ForeFootLChart.Series["ForeFootL"].Color = Color.Red;
             ForeFootRChart.Series["ForeFootR"].Color = Color.Red;
             MidFootLChart.Series["MidFootL"].Color = Color.Blue;
-            MidFootRChart.Series["MidFootR"].Color = Color.Blue;
+            //MidFootRChart.Series["MidFootR"].Color = Color.Blue;
             RearFootLChart.Series["RearFootL"].Color = Color.GreenYellow;
             //RearFootRChart.Series["RearFootR"].Color = Color.GreenYellow;
             ThumbChart.Series["Thumb"].Color = Color.Teal;
@@ -83,7 +83,7 @@ namespace LocalDatabaseApp
             RearFootLeft_file.Close();
             //RearFootRight_file.Close();
             MidFootLeft_file.Close();
-            MidFootRight_file.Close();
+            //MidFootRight_file.Close();
             Thumb_file.Close();
         }
 
