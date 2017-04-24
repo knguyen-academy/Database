@@ -14,7 +14,7 @@ namespace LocalDatabaseApp
 {
     public partial class ForeFootL : Form
     {
-        StreamReader ForeFootL_file = new StreamReader("C:\\Users\\KHOI\\Desktop\\DBTest\\test0.txt");
+        StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
         public ForeFootL()
         {
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace LocalDatabaseApp
 
         private void InitializeGraph()
         {
-            GenerateGraph(ForeFootL_file, ForeFootLChart, "ForeFootL");
+            GenerateGraph(ForeFootLeft_file, ForeFootLChart, "ForeFootL");
             //Change colors
             ForeFootLChart.Series["ForeFootL"].Color = Color.Teal;
 

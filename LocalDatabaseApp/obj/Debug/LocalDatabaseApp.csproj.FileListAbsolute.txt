@@ -212,3 +212,9 @@ C:\Users\KHOI\Desktop\GIT REPO\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalD
 C:\Users\KHOI\Desktop\GIT REPO\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.ForeFootM.resources
 C:\Users\KHOI\Desktop\GIT REPO\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.ForeFootR.resources
 C:\Users\KHOI\Desktop\GIT REPO\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Heel.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.ForeFootL.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.ForeFootM.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.ForeFootR.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.GraphSelForm.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Heel.resources
+C:\Users\Khoi Nguyen\Desktop\GIT\GITHUB\Database-CPE190\LocalDatabaseApp\obj\Debug\LocalDatabaseApp.Thumb_Graph_Form.resources

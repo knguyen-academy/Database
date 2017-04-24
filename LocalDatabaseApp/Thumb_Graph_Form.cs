@@ -14,7 +14,7 @@ namespace LocalDatabaseApp
 {
     public partial class Thumb_Graph_Form : Form
     {
-        StreamReader Thumb_file = new StreamReader("C:\\Users\\KHOI\\Desktop\\DBTest\\test0.txt");
+        StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
         public Thumb_Graph_Form()
         {
             InitializeComponent();
