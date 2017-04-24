@@ -17,6 +17,8 @@ namespace LocalDatabaseApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login_Form());
+            //Application.Run(new GraphSelForm());
+            //Application.Run(new Thumb_Graph_Form());
         }
     }
 }

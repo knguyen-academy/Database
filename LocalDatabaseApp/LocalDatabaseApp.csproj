@@ -51,11 +51,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ForeFootL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForeFootL.Designer.cs">
+      <DependentUpon>ForeFootL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForeFootM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForeFootM.Designer.cs">
+      <DependentUpon>ForeFootM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForeFootR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForeFootR.Designer.cs">
+      <DependentUpon>ForeFootR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphSelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphSelForm.Designer.cs">
+      <DependentUpon>GraphSelForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Graph_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Graph_Form.Designer.cs">
       <DependentUpon>Graph_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Heel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Heel.Designer.cs">
+      <DependentUpon>Heel.cs</DependentUpon>
     </Compile>
     <Compile Include="Insert_Form.cs">
       <SubType>Form</SubType>
@@ -89,8 +119,29 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thumb_Graph_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thumb_Graph_Form.Designer.cs">
+      <DependentUpon>Thumb_Graph_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ForeFootL.resx">
+      <DependentUpon>ForeFootL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForeFootM.resx">
+      <DependentUpon>ForeFootM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForeFootR.resx">
+      <DependentUpon>ForeFootR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphSelForm.resx">
+      <DependentUpon>GraphSelForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Graph_Form.resx">
       <DependentUpon>Graph_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Heel.resx">
+      <DependentUpon>Heel.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Insert_Form.resx">
       <DependentUpon>Insert_Form.cs</DependentUpon>
@@ -117,6 +168,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Thumb_Graph_Form.resx">
+      <DependentUpon>Thumb_Graph_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\DataSources\Finisar.SQLite.BinaryDataWithZerosException.datasource" />
     <None Include="Properties\DataSources\Finisar.SQLite.SQLiteCommand.datasource" />
     <None Include="Properties\DataSources\Finisar.SQLite.SQLiteCommandBuilder.datasource" />
@@ -178,6 +232,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Detail BG31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\c5e0407c889f4801bf6787d5c812f58d.png" />
+    <Content Include="Resources\Foot-Plantar.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

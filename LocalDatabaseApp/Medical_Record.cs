@@ -203,8 +203,8 @@ namespace LocalDatabaseApp
 
         private void Graph_button_Click(object sender, EventArgs e)
         {
-            Graph_Form Graph_form = new Graph_Form();
-            Graph_form.Show();
+            GraphSelForm GraphSel_form = new GraphSelForm();
+            GraphSel_form.Show();
         }
     }
 }

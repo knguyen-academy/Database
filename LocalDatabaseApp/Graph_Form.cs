@@ -13,19 +13,16 @@ namespace LocalDatabaseApp
 {
     public partial class Graph_Form : Form
     {
-        //StreamReader file = new StreamReader("C:\\Users\\knguyen\\Desktop\\test0.txt");
-        StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out0.txt");
+        StreamReader ForeFootMid_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out0.txt");
         StreamReader ForeFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out1.txt");
-        StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
-        //StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
-        StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
-        //StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+        StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
+        StreamReader Heel_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
         StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
         public Graph_Form()
         {
             InitializeComponent();
             InitializeGraph();  //Initialize Each Graph
-            AllGraphLoad(); // Load All Graphs
+            //AllGraphLoad(); // Load All Graphs
            
         }
 
@@ -33,32 +30,28 @@ namespace LocalDatabaseApp
         {
             GenerateGraph(ForeFootLeft_file, ForeFootLChart, "ForeFootL");
             GenerateGraph(ForeFootRight_file, ForeFootRChart, "ForeFootR");
-            GenerateGraph(MidFootLeft_file, MidFootLChart, "MidFootL");
-            //GenerateGraph(MidFootRight_file, MidFootRChart, "MidFootR");
-            GenerateGraph(RearFootLeft_file, RearFootLChart, "RearFootL");
-            //GenerateGraph(RearFootRight_file, RearFootRChart, "RearFootR");
+            GenerateGraph(ForeFootMid_file, ForeFootMChart, "ForeFootM");
+            GenerateGraph(Heel_file, HeelChart, "Heel");
             GenerateGraph(Thumb_file, ThumbChart, "Thumb");
 
             //Change colors
             ForeFootLChart.Series["ForeFootL"].Color = Color.Red;
             ForeFootRChart.Series["ForeFootR"].Color = Color.Red;
-            MidFootLChart.Series["MidFootL"].Color = Color.Blue;
+            ForeFootMChart.Series["ForeFootM"].Color = Color.Blue;
             //MidFootRChart.Series["MidFootR"].Color = Color.Blue;
-            RearFootLChart.Series["RearFootL"].Color = Color.GreenYellow;
+            HeelChart.Series["Heel"].Color = Color.GreenYellow;
             //RearFootRChart.Series["RearFootR"].Color = Color.GreenYellow;
             ThumbChart.Series["Thumb"].Color = Color.Teal;
 
         }
-
+        /*
         private void AllGraphLoad()
         {
             //Reopen Files 
-            StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out0.txt");
+            StreamReader ForeFootMid_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out0.txt");
             StreamReader ForeFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out1.txt");
-            StreamReader RearFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
-           // StreamReader RearFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
-            StreamReader MidFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
-            //StreamReader MidFootRight_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
+            StreamReader ForeFootLeft_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out2.txt");
+            StreamReader Heel_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
             StreamReader Thumb_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
 
             GenerateGraph(ForeFootLeft_file, AllGraphChart, "ForeFootL");
@@ -72,7 +65,7 @@ namespace LocalDatabaseApp
             //Change Color
             ForeFootLChart.Series["ForeFootL"].Color = Color.Red;
             ForeFootRChart.Series["ForeFootR"].Color = Color.Red;
-            MidFootLChart.Series["MidFootL"].Color = Color.Blue;
+            ForeFootMChart.Series["MidFootL"].Color = Color.Blue;
             //MidFootRChart.Series["MidFootR"].Color = Color.Blue;
             RearFootLChart.Series["RearFootL"].Color = Color.GreenYellow;
             //RearFootRChart.Series["RearFootR"].Color = Color.GreenYellow;
@@ -86,7 +79,7 @@ namespace LocalDatabaseApp
             //MidFootRight_file.Close();
             Thumb_file.Close();
         }
-
+        */
         private void GenerateGraph(StreamReader File_name, Chart ChartSerial, string chartName)
         {
             string line = "";
