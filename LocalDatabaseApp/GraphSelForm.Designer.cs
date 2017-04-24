@@ -64,6 +64,7 @@
             // 
             // OK_Button
             // 
+            this.OK_Button.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.OK_Button.Location = new System.Drawing.Point(63, 489);
             this.OK_Button.Name = "OK_Button";
             this.OK_Button.Size = new System.Drawing.Size(75, 23);
@@ -76,12 +77,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::LocalDatabaseApp.Properties.Resources.Detail_BG3;
             this.ClientSize = new System.Drawing.Size(779, 692);
             this.Controls.Add(this.OK_Button);
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "GraphSelForm";
             this.Text = "GraphSelForm";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
