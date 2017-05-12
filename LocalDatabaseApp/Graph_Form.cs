@@ -39,7 +39,7 @@ namespace LocalDatabaseApp
             ForeFootRChart.Series["ForeFootR"].Color = Color.Red;
             ForeFootMChart.Series["ForeFootM"].Color = Color.Blue;
             //MidFootRChart.Series["MidFootR"].Color = Color.Blue;
-            HeelChart.Series["Heel"].Color = Color.GreenYellow;
+            HeelChart.Series["Heel"].Color = Color.DarkBlue;
             //RearFootRChart.Series["RearFootR"].Color = Color.GreenYellow;
             ThumbChart.Series["Thumb"].Color = Color.Teal;
 

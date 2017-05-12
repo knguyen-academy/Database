@@ -43,6 +43,8 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             chartArea1.AxisX.Title = "Time (ms)";
             chartArea1.AxisY.Title = "Pressure (N)";
+            chartArea1.CursorX.IsUserEnabled = true;
+            chartArea1.CursorX.IsUserSelectionEnabled = true;
             chartArea1.Name = "ChartArea1";
             this.ThumbChart.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";

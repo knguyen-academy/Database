@@ -14,7 +14,7 @@ namespace LocalDatabaseApp
 {
     public partial class ForeFootM : Form
     {
-        StreamReader ForeFootMid_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out0.txt");
+        StreamReader ForeFootMid_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
         public ForeFootM()
         {
             InitializeComponent();

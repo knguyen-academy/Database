@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title3 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this.ForeFootMChart = new System.Windows.Forms.DataVisualization.Charting.Chart();
             ((System.ComponentModel.ISupportInitialize)(this.ForeFootMChart)).BeginInit();
             this.SuspendLayout();
@@ -41,25 +41,27 @@
             this.ForeFootMChart.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            chartArea3.AxisX.Title = "Time (ms)";
-            chartArea3.AxisY.Title = "Pressure (N)";
-            chartArea3.Name = "ChartArea1";
-            this.ForeFootMChart.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.ForeFootMChart.Legends.Add(legend3);
+            chartArea1.AxisX.Title = "Time (ms)";
+            chartArea1.AxisY.Title = "Pressure (N)";
+            chartArea1.CursorX.IsUserEnabled = true;
+            chartArea1.CursorX.IsUserSelectionEnabled = true;
+            chartArea1.Name = "ChartArea1";
+            this.ForeFootMChart.ChartAreas.Add(chartArea1);
+            legend1.Name = "Legend1";
+            this.ForeFootMChart.Legends.Add(legend1);
             this.ForeFootMChart.Location = new System.Drawing.Point(14, 9);
             this.ForeFootMChart.Name = "ForeFootMChart";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series3.Legend = "Legend1";
-            series3.Name = "ForeFootM";
-            this.ForeFootMChart.Series.Add(series3);
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series1.Legend = "Legend1";
+            series1.Name = "ForeFootM";
+            this.ForeFootMChart.Series.Add(series1);
             this.ForeFootMChart.Size = new System.Drawing.Size(873, 237);
             this.ForeFootMChart.TabIndex = 11;
             this.ForeFootMChart.Text = "ForeFootMChart";
-            title3.Name = "ForeFootMid";
-            title3.Text = "Fore Foot Mid";
-            this.ForeFootMChart.Titles.Add(title3);
+            title1.Name = "ForeFootMid";
+            title1.Text = "Fore Foot Mid";
+            this.ForeFootMChart.Titles.Add(title1);
             // 
             // ForeFootM
             // 

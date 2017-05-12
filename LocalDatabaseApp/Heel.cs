@@ -13,7 +13,7 @@ namespace LocalDatabaseApp
 {
     public partial class Heel : Form
     {
-        StreamReader Heel_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out3.txt");
+        StreamReader Heel_file = new StreamReader("C:\\Users\\knguyen\\Desktop\\out4.txt");
         public Heel()
         {
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace LocalDatabaseApp
         {
             GenerateGraph(Heel_file, HeelChart, "Heel");
             //Change colors
-            HeelChart.Series["Heel"].Color = Color.Teal;
+            HeelChart.Series["Heel"].Color = Color.DarkBlue;
 
         }
         private void GenerateGraph(StreamReader File_name, Chart ChartSerial, string chartName)

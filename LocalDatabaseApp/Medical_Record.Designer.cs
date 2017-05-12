@@ -54,7 +54,6 @@
             this.id_label = new System.Windows.Forms.Label();
             this.Graph_button = new System.Windows.Forms.Button();
             this.id = new System.Windows.Forms.Label();
-            this.Back_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // cancel_button
@@ -300,23 +299,15 @@
             this.id.TabIndex = 36;
             this.id.Text = "ID:";
             // 
-            // Back_button
-            // 
-            this.Back_button.Location = new System.Drawing.Point(0, 0);
-            this.Back_button.Name = "Back_button";
-            this.Back_button.Size = new System.Drawing.Size(75, 23);
-            this.Back_button.TabIndex = 37;
-            // 
             // Medical_Record
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.BackgroundImage = global::LocalDatabaseApp.Properties.Resources.Detail_BG31;
-            this.ClientSize = new System.Drawing.Size(969, 869);
+            this.ClientSize = new System.Drawing.Size(969, 865);
             this.Controls.Add(this.id);
             this.Controls.Add(this.Graph_button);
-            this.Controls.Add(this.Back_button);
             this.Controls.Add(this.subcription_text);
             this.Controls.Add(this.visit_text);
             this.Controls.Add(this.height_text);
@@ -379,6 +370,5 @@
         private System.Windows.Forms.Label id_label;
         private System.Windows.Forms.Button Graph_button;
         private System.Windows.Forms.Label id;
-        private System.Windows.Forms.Button Back_button;
     }
 }
